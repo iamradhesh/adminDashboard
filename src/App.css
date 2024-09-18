@@ -1,0 +1,52 @@
+.navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar .logo {
+  font-weight: bold;
+  color: #1976d2;
+}
+
+.navbar .search-box {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.navbar .icons {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .icons .icon {
+  margin-left: 20px;
+}
+
+.navbar .icons .avatar {
+  background-color: #1976d2;
+}
+
+.dashboard {
+  padding: 30px;
+}
+
+.dashboard .stat-card {
+  background-color: #1976d2;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.dashboard .stat-card h6 {
+  margin-bottom: 10px;
+}
+
+.dashboard .stat-card h4 {
+  font-size: 32px;
+}
+
+.dashboard .chart-card {
+  padding: 20px;
+  text-align: center;
+}
